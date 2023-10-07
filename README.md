@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### OpenStack 구축
 
-- 대구 통합 XXXX : OpenStack Wallaby, Hitachi Storage
-- 김천 교통 XXXX : OpenStack Wallaby, Hitachi Storage
-- 대전 국가 XXXX : OpenStack Ussuri
+- 대구 XXXX : OpenStack Wallaby, Hitachi Storage
+- 김천 XXXX : OpenStack Wallaby, Hitachi Storage
+- 대전 XXXX : OpenStack Ussuri
 
 
 감사합니다.
